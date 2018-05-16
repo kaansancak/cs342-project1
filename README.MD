@@ -3,7 +3,7 @@
 
 ## How to run?
 
-1) Just run 'make' command from terminal
+1) Type `make` into terminal
 
 2) For prime `'./prime <N> <M>'`
 	* N is number of children and 
